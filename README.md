@@ -1,1 +1,3 @@
-# sarita-practice
+# sarita-practice #
+
+## How to use ##
